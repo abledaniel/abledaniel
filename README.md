@@ -53,13 +53,13 @@ hey, i'm Abel a software developer from OC who likes building things that are im
 ## 🔬 research & experience
 
 **ML Researcher @ LSAMP** *(Aug 2024 – May 2025)*
-built a signal classification pipeline for a life-detection IoT device — 88% accuracy on benchmarked sensor data
+built a signal classification pipeline for a life-detection IoT device 88% accuracy on benchmarked sensor data
 
 **NLP Research Scholar @ Assure-US / LSAMP** *(May 2023 – May 2024)*
 built the food-insecurity NLP classifier above. LSAMP Research Scholar · NSM Award · SCCUR presenter · CSUF Expo finalist
 
 **Frontend Intern @ ACCESS Project** *(May – June 2024)*
-built a React web app centralizing public library resources — from Figma mockup to working prototype in 4 weeks
+built a React web app centralizing public library resources from Figma mockup to working prototype in 4 weeks
 
 ---
 
