@@ -12,7 +12,7 @@
 
 **`Software Developer · OC / Fullerton · MS Computer Science @ CSUF`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=full-stack+developer;ml+researcher;game+developer;photographer+%F0%9F%93%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=full-stack+developer;ml+developer;game+developer;photographer+%F0%9F%93%B7)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abel-daniel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://abledaniel.github.io/Website/)
